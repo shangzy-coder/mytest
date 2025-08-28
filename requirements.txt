@@ -1,0 +1,15 @@
+# Channel Message Recorder Dependencies
+# Install with: pip install -r requirements.txt
+
+# For Discord recording
+discord.py>=2.3.0
+
+# For Slack recording  
+slack-sdk>=3.19.0
+
+# Core dependencies (usually included with Python)
+asyncio
+json
+csv
+datetime
+pathlib

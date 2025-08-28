@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-08-28T09:40:36.958315",
+    "channel": "general",
+    "user": "alice",
+    "content": "Hello everyone! How's the project going?",
+    "message_id": null,
+    "metadata": null
+  },
+  {
+    "timestamp": "2025-08-28T09:40:36.958366",
+    "channel": "general",
+    "user": "bob",
+    "content": "Great! Just finished the API integration.",
+    "message_id": null,
+    "metadata": null
+  },
+  {
+    "timestamp": "2025-08-28T09:40:36.958369",
+    "channel": "dev-team",
+    "user": "charlie",
+    "content": "Found a bug in the payment module, working on a fix.",
+    "message_id": null,
+    "metadata": null
+  },
+  {
+    "timestamp": "2025-08-28T09:40:36.958370",
+    "channel": "dev-team",
+    "user": "alice",
+    "content": "Thanks! Let me know if you need help testing it.",
+    "message_id": null,
+    "metadata": null
+  }
+]

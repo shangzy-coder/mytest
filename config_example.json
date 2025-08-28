@@ -1,0 +1,26 @@
+{
+  "discord": {
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "channels": [
+      {"id": "123456789", "name": "general"},
+      {"id": "987654321", "name": "dev-team"}
+    ]
+  },
+  "slack": {
+    "token": "xoxb-YOUR-SLACK-BOT-TOKEN",
+    "channels": [
+      {"id": "C1234567890", "name": "general"},
+      {"id": "C0987654321", "name": "random"}
+    ]
+  },
+  "irc": {
+    "server": "irc.libera.chat",
+    "port": 6667,
+    "channels": ["#python", "#javascript"]
+  },
+  "recording": {
+    "output_dir": "recorded_messages",
+    "default_format": "json",
+    "auto_save_interval": 300
+  }
+}
