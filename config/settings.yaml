@@ -1,0 +1,25 @@
+# 文件记录器配置
+app:
+  name: "文件记录器"
+  version: "1.0.0"
+  author: "AI助手"
+
+settings:
+  encoding: "utf-8"
+  backup_enabled: true
+  max_file_size: 10485760  # 10MB
+  
+file_types:
+  - text
+  - markdown
+  - python
+  - json
+  - yaml
+  - csv
+  
+default_tags:
+  - "自动创建"
+  
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(levelname)s - %(message)s"

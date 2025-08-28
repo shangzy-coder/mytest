@@ -1,0 +1,85 @@
+{
+  "created_at": "2025-08-28T09:23:37.012725",
+  "files": [
+    {
+      "id": 1,
+      "file_path": "examples/sample.txt",
+      "description": "示例文本文件",
+      "file_type": "text",
+      "tags": [
+        "示例",
+        "测试"
+      ],
+      "created_at": "2025-08-28T09:23:37.013737",
+      "size_bytes": 74
+    },
+    {
+      "id": 2,
+      "file_path": "config/app_config.json",
+      "description": "应用程序配置文件",
+      "file_type": "json",
+      "tags": [
+        "配置",
+        "JSON"
+      ],
+      "created_at": "2025-08-28T09:23:37.014026",
+      "size_bytes": 105
+    },
+    {
+      "id": 3,
+      "file_path": "docs/README.md",
+      "description": "项目主要文档",
+      "file_type": "markdown",
+      "tags": [
+        "文档",
+        "README",
+        "项目介绍"
+      ],
+      "created_at": "2025-08-28T09:23:37.014531",
+      "size_bytes": 782
+    },
+    {
+      "id": 4,
+      "file_path": "utils/file_utils.py",
+      "description": "文件操作相关的实用工具函数",
+      "file_type": "python",
+      "tags": [
+        "工具",
+        "Python",
+        "文件操作"
+      ],
+      "created_at": "2025-08-28T09:23:37.015588",
+      "size_bytes": 1101
+    },
+    {
+      "id": 5,
+      "file_path": "data/file_summary.csv",
+      "description": "文件摘要数据表",
+      "file_type": "csv",
+      "tags": [
+        "数据",
+        "CSV",
+        "摘要"
+      ],
+      "created_at": "2025-08-28T09:23:37.015915",
+      "size_bytes": 266
+    },
+    {
+      "id": 6,
+      "file_path": "config/settings.yaml",
+      "description": "系统配置文件（YAML格式）",
+      "file_type": "yaml",
+      "tags": [
+        "配置",
+        "YAML",
+        "设置"
+      ],
+      "created_at": "2025-08-28T09:23:37.016227",
+      "size_bytes": 375
+    }
+  ],
+  "metadata": {
+    "total_files": 6,
+    "last_updated": "2025-08-28T09:23:37.016247"
+  }
+}

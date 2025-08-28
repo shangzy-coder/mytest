@@ -1,0 +1,6 @@
+{
+    "app_name": "文件记录器",
+    "version": "1.0.0",
+    "debug": true,
+    "log_level": "INFO"
+}
